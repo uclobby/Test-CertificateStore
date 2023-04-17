@@ -12,5 +12,8 @@ PowerShell script that checks for issues/misplaced certificates in the Certifica
 <br/>Currently the script doesn’t accept any parameter.
 <br/>
 <br/>Change Log
-<br/>&nbsp;&nbsp;v1.0 – 2015/07/21 - Initial release
-<br/>&nbsp;&nbsp;v1.1 – 2018/08/01 - Check #7 - Expired certificates in Root, Intermediate and Personal Store.
+<ul>
+    <li>v1.2 - 2023/04/17 - Updated to publish in PowerShell Gallery</li>
+    <li>v1.1 – 2018/08/01 - Check #7 - Expired certificates in Root, Intermediate and Personal Store</li>
+    <li>v1.0 – 2015/07/21 - Initial release</li>
+</ul>
